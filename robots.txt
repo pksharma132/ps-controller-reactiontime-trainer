@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pksharma132.github.io/ps-controller-reactiontime-trainer/sitemap.xml
